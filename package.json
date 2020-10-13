@@ -1,0 +1,26 @@
+{
+  "name": "test-mercado-libre",
+  "version": "0.0.1",
+  "description": "Api de test mercado libre",
+  "main": "server.js",
+  "engine": {
+    "node": "*",
+    "npm": "*"
+  },
+  "scripts": {
+    "start": "nodemon ./server.js",
+    "now-build": "node ./server.js"
+  },
+  "dependencies": {
+    "axios": "^0.20.0",
+    "body-parser": "^1.18.3",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "npm": "^6.9.0",
+    "path": "^0.12.7",
+    "rootpath": "^0.1.2"
+  },
+  "devDependencies": {
+    "nodemon": "^1.17.5"
+  }
+}

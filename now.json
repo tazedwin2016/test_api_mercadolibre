@@ -1,0 +1,10 @@
+{
+    "version": 2,
+    "name": "test_api_mercadolibre",
+    "builds": [
+        {
+            "src": "server.js",
+            "use": "@now/node"
+        }
+    ]
+}

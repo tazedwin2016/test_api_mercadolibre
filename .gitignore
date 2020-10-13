@@ -1,0 +1,33 @@
+.DS_Store
+node_modules/
+dist/
+Cache/
+CachedData/
+User/
+logs/
+GPUCache/
+Code Cache/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+package-lock.json
+tests/**/coverage/
+.env
+# Editor directories and files
+.idea
+.vscode
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+CachedExtensions/user
+CachedExtensions/builtin
+Backups/workspaces.json
+storage.json
+rapid_render.json
+Network Persistent State
+machineid
+languagepacks.json
+Cookies-journal
+Cookies
